@@ -1,0 +1,19 @@
+{
+  "name": "solo-grocery-list-",
+  "version": "1.0.0",
+  "description": "hrla33 solo challenge 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyomiTheTech/Solo-Grocery-List-.git"
+  },
+  "author": "Eui Hyun (David)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyomiTheTech/Solo-Grocery-List-/issues"
+  },
+  "homepage": "https://github.com/hyomiTheTech/Solo-Grocery-List-#readme"
+}
